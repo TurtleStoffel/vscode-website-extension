@@ -1,0 +1,9 @@
+# Any coding project
+.vscode
+
+# VSCode Extension Development
+.vscode-test
+*.vsix
+
+node_modules
+out
